@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Olá, meu nome é Humberto, tenho muito interesse no desenvolvimento de software e estou cursando Análises e Desenvolvimento de Sistemas. Começei a estudar já faz mais de um ano na faculdade e sozinho, uso 8 horas do meu dia para estudar depois do trabalho (que ainda não é na área).
+Hi, my name is Humberto, I'm very interested in software development and I'm studying Systems Analysis and Development. I started studying more than a year ago in college and alone, I use 8 hours of my day to study after work (which is not yet in the field).
 
 Procuro bastante certificar meus conhecimentos e focado em conseguir minha primeira oportunidade no mercado de trabalho.
-- 🔭 I’m currently  aprofundando meus conhecimentos em  Java | JavaScript | HTML | CSS | SQL Server.
-- 🌱 I’m currently interesssado em  React.JS | Node.JS. 
+- 🔭 I’m currently  deepening my knowledge in  Java | JavaScript | HTML | CSS | SQL Server.
+- 🌱 I’m currently interested in  React.JS | Node.JS. 
