@@ -5,3 +5,19 @@ Hi, my name is Humberto, I'm very interested in software development and I'm stu
 Procuro bastante certificar meus conhecimentos e focado em conseguir minha primeira oportunidade no mercado de trabalho.
 - 🔭 I’m currently  deepening my knowledge in  Java | JavaScript | HTML | CSS | SQL Server.
 - 🌱 I’m currently interested in  React.JS | Node.JS. 
+
+<div align="center">
+  <a href="https://github.com/Jose-Humberto-07">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-humberto-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+  
+  ##
