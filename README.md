@@ -6,11 +6,7 @@ Procuro bastante certificar meus conhecimentos e focado em conseguir minha prime
 - 🔭 I’m currently  deepening my knowledge in  Java | JavaScript | HTML | CSS | SQL Server.
 - 🌱 I’m currently interested in  React.JS | Node.JS. 
 
-<div align="center">
-  <a href="https://github.com/Jose-Humberto-07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose-humberto-07&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
