@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-Test: 905
+Sou Analista de Sistema e graduando em análises e Desenvolvimento de Sistemas.
 
-Auxiliar de TI e Desenvolvedor Full Stack em formação usando Spring Framework e ReacjJS. Buscando me aprofundar mais nessas tecnologias.
+Atualmente dando Suporte aos usuários do Sistema TOTVS RM (Educacional, Bibliotecário, Gestão de
+Pessoas, Processo Seletivo, Financeiro e Gestão de Estoque, compras e
+Faturamento);
+Apoio a sistema integrados;
+Conduzindo a mudança do ERP da empresa.
+Conhecimento nas ferramentas de análises do ERP Totvs linha RM (RM Reports, Gerador de Relatórios, Cubos e ETL), Gestão de Compras Estoque e Faturamento, Folha de Pagamento e Gestão Financeira.
 
-Principais conhecimentos técnicos: 
-JavaScript: TypeScript | NodeJs | ReactJs.
-Java: Spring | Maven.
-Banco de dados: SqlServer | MySql | Postgres.
+Competências: SQL SERVER | POWER BI | PYTHON | DJANGO |
 
 
 <div style="display: inline_block"><br>
