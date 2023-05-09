@@ -9,7 +9,7 @@ Apoio a sistema integrados;
 Conduzindo a mudança do ERP da empresa.
 Conhecimento nas ferramentas de análises do ERP Totvs linha RM (RM Reports, Gerador de Relatórios, Cubos e ETL), Gestão de Compras Estoque e Faturamento, Folha de Pagamento e Gestão Financeira.
 
-Competências: SQL SERVER | POWER BI | PYTHON | DJANGO  | JAVA | SPRING | T-SQL | ANALISTA DE SISTEMA TOTVS RM
+COMPETÊNCIAS: SQL SERVER | POWER BI | PYTHON | DJANGO  | JAVA | SPRING | T-SQL | TOTVS RM
 
 
 <div style="display: inline_block"><br>
