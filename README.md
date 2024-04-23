@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Analista de Sistema e graduado em análises e Desenvolvimento de Sistemas.
+Sou Analista de Sistema e graduado em Análises e Desenvolvimento de Sistemas.
 
 Atualmente dando Suporte aos usuários do Sistema TOTVS RM (Educacional, Bibliotecário, Gestão de
 Pessoas, Processo Seletivo, Financeiro e Gestão de Estoque, compras e
